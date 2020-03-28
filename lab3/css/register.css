@@ -1,0 +1,49 @@
+h1{
+    color:white;
+    background-color:rgb(42, 131, 248);
+    font-family: Georgia;font-weight: bold;
+    font-size: 60px;
+}
+body{
+    margin-left:300px;
+    margin-right:300px;
+    text-align: left;
+}
+p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+input{
+    height: 30px;width: 300px;
+    padding: 0.5em;
+    background-color: #ffffff;
+    border: #56707f solid 1px;
+    border-radius: 3px;
+    color: #000000
+}
+#checkbox{
+    height: 12px;
+			        width: 12px;
+				    display: inline-block;
+				    background-image: url('https://caiyunupload.b0.upaiyun.com/newweb/imgs/icon-unchecked.png');
+			        background-repeat: no-repeat;
+			        background-position: center;
+			        vertical-align: middle;
+                    margin-top: -4px;
+                    margin-left: 20px;
+}
+textarea#contract{
+    height:300px;
+    width:500px;
+    margin-left: 20px;
+    padding: 0.5em;
+    background-color: #ffffff;
+    border: #56707f solid 1px;
+    border-radius: 3px;
+    color: #000000
+}
+select {
+    background-color: #ffffff;
+    border: #56707f solid 1px;
+    color: #000000
+}

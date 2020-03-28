@@ -1,0 +1,59 @@
+div#aside{
+    text-align: right;
+    background-color: white;
+    border-style: groove;border-color: rgb(219, 219, 245);
+    font-size: 20px;
+    float:right;
+    margin-right: 500px;
+}
+li{
+    margin: 10px;
+}
+
+header {
+    color: #000000;
+    background-color: #ffffff;
+    margin-left: 50px;
+    height: 70px;
+    font-size: 20px;
+    word-wrap: break-word;width: 600px;
+    margin-left: 300px;
+}
+a:link{color: blue;}
+a:visited{color: blue;}
+
+div#recommendation{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.tips{
+    border-style: groove;border-color: rgb(219, 219, 245);
+    word-wrap: break-word;width: 600px;
+    margin-left: 300px;
+}
+
+p,h4{
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+h4{
+    font-size: 20px;font-weight: 2000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+blockquote{
+    font-size: 20px;font-weight: 2000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    height: 30px;
+    width: 80px;
+    background-color: rgb(126, 176, 250);
+    border:2px solid;
+    border-radius:25px;
+    -moz-border-radius:25px;
+}
+span{
+    font-size: 20px;
+    text-align: center;
+}

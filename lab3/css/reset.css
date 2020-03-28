@@ -1,0 +1,31 @@
+html, body, ul, fieldset {margin: 0; padding: 0;}
+
+html {font-size: 62.5%; box-sizing: border-box;}
+
+body {font-size: 1.4rem; line-height: 1.2;}
+
+*, *:before, *:after {box-sizing: inherit;}
+
+a {text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+ul {list-style: none;}
+
+img {max-width: 100%; height: auto;}
+
+input, fieldset, button, [tabindex] {outline: 0;}
+
+fieldset, button {border: 0;}
+
+button, textarea {font-family: inherit;}
+
+table {border-collapse: collapse; border-spacing: 0;}
+
+/* Mobile */
+
+@media (max-width: 767px) {
+
+	html {font-size: 50%;}
+
+}
